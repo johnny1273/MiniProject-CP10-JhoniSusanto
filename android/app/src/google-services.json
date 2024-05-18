@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1029483644449",
+    "project_id": "authentification-89fac",
+    "storage_bucket": "authentification-89fac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029483644449:android:81a0151830a61dfceec560",
+        "android_client_info": {
+          "package_name": "jhoni.belajar_flutter_fire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJEOlQ6aNng9oPaFF-ywzC4wQLmOa7kH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029483644449:android:433e31eb99426e69eec560",
+        "android_client_info": {
+          "package_name": "mini.project10"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJEOlQ6aNng9oPaFF-ywzC4wQLmOa7kH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
